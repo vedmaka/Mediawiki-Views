@@ -2,6 +2,7 @@ Mediawiki-Views
 ===============
 Views extension for Mediawiki. 
 Brings some templating in dev process to separate html and php.
+
 Instead of using inline html blocks in php, just use Views.
 
 Example
