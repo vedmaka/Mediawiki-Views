@@ -1,5 +1,8 @@
 Mediawiki-Views
 ===============
+
+![Views](http://i.imgur.com/mgAvgZG.png)
+
 Views extension for Mediawiki. 
 Brings some templating in dev process to separate html and php.
 
